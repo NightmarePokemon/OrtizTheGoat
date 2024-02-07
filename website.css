@@ -1,0 +1,101 @@
+.ortiz {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-image: url(https://www.bing.com/th/id/OGC.3cdf7aef5ab16f32db8d6d72ba696646?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f10fPPSowbFW3n2%2fgiphy.gif&ehk=smHTocjWyVAFJN1czU1A8QxjE0GJ9PeeTT9snbGD7Hk%3d);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 18px;
+    color: black;
+    box-shadow: 8px 10px;
+}
+
+body {
+    background-image: url(
+        https://www.bing.com/th/id/OGC.669be9ecb8b301ae34bd11c11a98d0b4?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f41854%2fscreenshots%2f2350395%2fpink_800x600.gif&ehk=c3WNZJ1B%2fmkSmOHFwgVtbPInworWkl6PR8hw%2bp1C1iw%3d
+    );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.header {
+    border: solid;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.image {
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: 10px -10px rgb(0, 0, 0);
+    margin-bottom: -20px;
+}
+
+.goat {
+    font-weight: bolder;
+}
+
+.p1 {
+    border: solid;
+}
+
+
+.phone {
+    position: relative;
+    border: solid;
+    border-radius: 30px;
+    padding-bottom: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    background-image: url(https://th.bing.com/th/id/OIP.m_4tUpAopti4U7Jc5dkLPgHaKj?rs=1&pid=ImgDetMain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 10px 10px;
+    border-width: 5px;
+
+}
+
+.dot {
+    border: solid;
+    background-color: black;
+    margin-top: 0px;
+    position: absolute;
+    left: 34%;
+    padding-left: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.threedots {
+    color: black;
+    font-size: 60px;
+    position: absolute;
+    bottom: -30px;
+    left: 39%;
+}
+
+.google {
+    border: solid;
+    position: absolute;
+    top: 40px;
+    left: 21%;
+    border-radius: 10px;
+    font: italic;
+    background-color: antiquewhite;
+}
+
+iframe {
+    margin-top: -25px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
